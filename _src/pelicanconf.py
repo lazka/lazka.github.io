@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Christoph Reiter'
 SITENAME = u'Title'
-SITEURL = 'http://lazka.github.io'
+SITEURL = ''
 
 PATH = '.'
 TIMEZONE = 'Europe/Vienna'
