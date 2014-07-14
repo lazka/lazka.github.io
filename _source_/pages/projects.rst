@@ -63,16 +63,16 @@ STM32 OS
 Rockbox Icons / Fonts
     Tango icon set (whoch is now the default) and a dejavu font package:
 
-    `Dejavu Font Pack <files/rockbox_dejavu-font-pack.tar.gz>`__
+    :download:`Dejavu Font Pack <files/rockbox_dejavu-font-pack.tar.gz>`
 
-    `Tango Icon Theme <files/rockbox_tango-icons-12.tar.gz>`__
+    :download:`Tango Icon Theme <files/rockbox_tango-icons-12.tar.gz>`
 
 
 IVTV Tray
     Simple app for controlling my Haupauge PVR150 TV card (and possibly all 
     ivtv cards). VLC is used to actually watch TV.
 
-    `Download <files/ivtv-tray.tar.gz>`__
+    :download:`Download <files/ivtv-tray.tar.gz>`
 
 
 StudiVZ Sidebar

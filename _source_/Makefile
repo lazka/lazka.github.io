@@ -1,3 +1,5 @@
 all:
-	sphinx-build -b html . ..
-	cp -R pages/files ../pages
+	sphinx-build -E -b html . ..
+	rm ../.buildinfo
+	rm -R ../.doctrees
+	echo "" > ../.buildinfo
