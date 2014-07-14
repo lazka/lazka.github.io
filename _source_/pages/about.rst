@@ -3,6 +3,10 @@ About Me
 
 Hi, I'm Christoph Reiter...
 
+.. figure:: images/il.jpg
+    :width: 250px
+    :align: right
+
 * Skype: lazka.
 * Jabber: <first name>.<surname>@jabber.org
 * IRC: quakenet, EUIrc, freenode (/query lazka)
@@ -11,7 +15,6 @@ Hi, I'm Christoph Reiter...
 
 * GitHub: https://github.com/lazka
 * Bitbucket: https://bitbucket.org/lazka
-
 
 PGP-Key::
 
