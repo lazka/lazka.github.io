@@ -27,7 +27,7 @@ body {
 }
 
 div.document {
-    width: 940px;
+    width: 1040px;
     margin: 30px auto 0 auto;
 }
 
@@ -37,11 +37,11 @@ div.documentwrapper {
 }
 
 div.bodywrapper {
-    margin: 0 0 0 220px;
+    margin: 0 0 0 280px;
 }
 
 div.sphinxsidebar {
-    width: 220px;
+    width: 280px;
 }
 
 hr {
@@ -55,7 +55,7 @@ div.body {
 }
 
 div.footer {
-    width: 940px;
+    width: 1040px;
     margin: 20px auto 30px auto;
     font-size: 14px;
     color: #888;
@@ -143,6 +143,7 @@ div.sphinxsidebar p {
 div.sphinxsidebar ul {
     margin: 10px 0;
     padding: 0;
+    font-size: 0.9em;
     color: #000;
 }
 

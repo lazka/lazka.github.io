@@ -7,6 +7,8 @@ Hi, I'm Christoph Reiter...
     :width: 250px
     :align: right
 
+    Mývatn / Iceland
+
 * Skype: lazka.
 * Jabber: <first name>.<surname>@jabber.org
 * IRC: quakenet, EUIrc, freenode (/query lazka)
@@ -16,7 +18,11 @@ Hi, I'm Christoph Reiter...
 * GitHub: https://github.com/lazka
 * Bitbucket: https://bitbucket.org/lazka
 
-PGP-Key::
+
+PGP-Key
+-------
+
+::
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1.4.6 (GNU/Linux)

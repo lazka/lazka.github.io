@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import collections
+
 extensions = []
 source_suffix = '.rst'
 master_doc = 'index'
@@ -19,8 +21,15 @@ html_sidebars = {
 }
 
 html_theme_options = {
-   'github_button': False,
-   'show_powered_by': False,
+    'github_button': False,
+    'show_powered_by': False,
+    'extra_nav_links': collections.OrderedDict([
+        ('Python GI API Reference', 'https://lazka.github.io/pgi-docs'),
+        ('PGI Docgen', 'https://github.com/lazka/pgi-docgen'),
+        ('PGI', 'https://github.com/lazka/pgi'),
+        ('Quod Libet', 'https://code.google.com/p/quodlibet'),
+        ('Mutagen', 'https://bitbucket.org/lazka/mutagen'),
+    ]),
 }
 
 html_show_sourcelink = False
