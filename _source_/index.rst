@@ -10,5 +10,3 @@ Welcome
 .. toctree::
     :titlesonly:
     :glob:
-
-    posts/2014-07_ql-mpd/*
