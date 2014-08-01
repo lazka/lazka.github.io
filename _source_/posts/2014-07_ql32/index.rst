@@ -1,7 +1,8 @@
 [2014-07] Quod Libet 3.2 Highlights
 ===================================
 
-Some changes in 3.2...
+Some changes in 3.2... (see also the `full changelog 
+<https://quodlibet.readthedocs.org/en/latest/changelog.html>`__)
 
 Acoustid Tagger
 ---------------
