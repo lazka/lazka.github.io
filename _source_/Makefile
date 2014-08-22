@@ -4,6 +4,7 @@ all:
 	rm -R ../.doctrees
 	echo "" > ../.buildinfo
 	./strip_dates.py ..
+	rm ../searchindex.js
 
 clean:
 	find .. -maxdepth 1 -mindepth 1 -not -name '.*' -a -not -name '_?*_'  | xargs -r rm -rf;
