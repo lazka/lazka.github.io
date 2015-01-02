@@ -15,6 +15,10 @@
 
 @import url("basic.css");
 
+hr {
+    clear: both;
+}
+
 /* -- page layout ----------------------------------------------------------- */
 
 body {
