@@ -15,10 +15,7 @@ Not that much, but anyway, here are some screenshots (also see the `full changel
 
 OS X support thanks to **Eric Le Lay** (https://github.com/elelay)
 
-Experimental builds can be found here: http://sourceforge.net/projects/kerik-sf.u/files/
-
-We will provide an official build of the final release on the download page in 
-the coming days.
+Download: https://quodlibet.readthedocs.org/en/latest/downloads.html#macosx
 
 ----
 
