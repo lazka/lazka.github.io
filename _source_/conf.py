@@ -5,7 +5,7 @@ import collections
 extensions = []
 source_suffix = '.rst'
 master_doc = 'index'
-project = u'~'
+project = u'About'
 copyright = u''
 version = '0.1'
 release = '0.1'

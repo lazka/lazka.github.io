@@ -49,6 +49,7 @@ div.documentwrapper {
 
 div.bodywrapper {
     margin: 0 0 0 {{ sidebar_width }};
+    padding-top: 10px;
 }
 
 div.sphinxsidebar {
@@ -56,14 +57,15 @@ div.sphinxsidebar {
 }
 
 hr {
-    border: 1px solid #B1B4B6;
+    border: 1px solid #DDD;
 }
+
 
 div.body {
     background-color: #ffffff;
     color: {{ theme_body_text }};
     padding: 0 30px 0 30px;
-    border-left: 1px solid #AAA;
+    border-left: 1px solid #DDD;
 }
 
 div.footer {
@@ -85,7 +87,7 @@ div.related {
 div.sphinxsidebar a {
     color: {{ theme_sidebar_link }};
     text-decoration: none;
-    border-bottom: 1px dotted {{ theme_sidebar_link_underscore }};
+    border-bottom: 0;
 }
 
 div.sphinxsidebar a:hover {
@@ -95,7 +97,7 @@ div.sphinxsidebar a:hover {
 div.sphinxsidebar {
     font-size: 14px;
     line-height: 1.5;
-    border-right: 1px solid #AAA;
+    border-right: 1px solid #DDD;
 }
 
 div.sphinxsidebarwrapper {
@@ -175,8 +177,8 @@ div.sphinxsidebar input {
 div.sphinxsidebar hr {
     border: none;
     height: 1px;
-    color: {{ theme_sidebar_link_underscore }};
-    background: {{ theme_sidebar_link_underscore }};
+    color: #DDD;
+    background: #DDD;
 }
 
 /* -- body styles ----------------------------------------------------------- */
@@ -191,21 +193,11 @@ a:hover {
     text-decoration: underline;
 }
 
-div.body h1,
-div.body h2,
-div.body h3,
-div.body h4,
-div.body h5,
-div.body h6 {
-    font-family: 'Lato', 'Garamond', 'Georgia', serif;
-    font-weight: normal;
-    margin: 30px 0px 10px 0px;
-    padding: 0;
-}
 
-div.body h1 { margin-top: 0; padding-top: 0; font-size: 240%; }
-div.body h2 { font-size: 150%; }
-div.body h3 { font-size: 130%; }
+
+div.body h1 { margin-top: 0; padding-top: 0; font-size: 180%; }
+div.body h2 { font-size: 130%; }
+div.body h3 { font-size: 100%; }
 div.body h4 { font-size: 100%; }
 div.body h5 { font-size: 100%; }
 div.body h6 { font-size: 100%; }
