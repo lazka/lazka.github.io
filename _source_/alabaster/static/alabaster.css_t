@@ -1,4 +1,5 @@
 {% set page_width = '1040px' %}
+{% set min_page_width = '740px' %}
 {% set sidebar_width = '280px' %}
 
 {% set theme_sidebar_header = theme_sidebar_header or theme_gray_1 %}
@@ -17,6 +18,12 @@
 
 hr {
     clear: both;
+}
+
+a[href^="http://"]:after,
+a[href^="https://"]:after{
+    content: " ↗";
+    font-size: 0.9em;
 }
 
 /* -- page layout ----------------------------------------------------------- */
@@ -56,6 +63,7 @@ div.body {
     background-color: #ffffff;
     color: {{ theme_body_text }};
     padding: 0 30px 0 30px;
+    border-left: 1px solid #AAA;
 }
 
 div.footer {
@@ -87,23 +95,22 @@ div.sphinxsidebar a:hover {
 div.sphinxsidebar {
     font-size: 14px;
     line-height: 1.5;
+    border-right: 1px solid #AAA;
 }
 
 div.sphinxsidebarwrapper {
-    padding: 18px 10px;
+    padding: 18px 30px 10px 10px;
+    text-align: right;
 }
 
 div.sphinxsidebarwrapper p.logo {
     padding: 0;
     margin: -10px 0 0 0px;
-    text-align: center;
 }
 
 div.sphinxsidebarwrapper h1.logo {
     margin-top: -10px;
-    text-align: center;
     margin-bottom: 5px;
-    text-align: {{ theme_logo_text_align }};
 }
 
 div.sphinxsidebarwrapper h1.logo-name {
@@ -170,10 +177,6 @@ div.sphinxsidebar hr {
     height: 1px;
     color: {{ theme_sidebar_link_underscore }};
     background: {{ theme_sidebar_link_underscore }};
-
-    text-align: left;
-    margin-left: 0;
-    width: 50%;
 }
 
 /* -- body styles ----------------------------------------------------------- */
@@ -478,7 +481,7 @@ a:hover tt {
 
 
 
-@media screen and (max-width: 875px) {
+@media screen and (max-width: {{ min_page_width }}) {
 
     body {
         margin: 0;
@@ -488,6 +491,10 @@ a:hover tt {
     div.documentwrapper {
         float: none;
         background: white;
+    }
+
+    div.sphinxsidebarwrapper {
+        text-align: left;
     }
 
     div.sphinxsidebar {
@@ -541,6 +548,7 @@ a:hover tt {
     div.body {
         min-height: 0;
         padding: 0;
+        border-left: 0;
     }
 
     .rtd_doc_footer {
