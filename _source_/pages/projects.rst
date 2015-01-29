@@ -6,12 +6,11 @@ Things I'm working on..
 Pure Python GObject Introspection Bindings
 ------------------------------------------
 
-GTK+ bindings for PyPy
+GTK+ bindings for CPython and PyPy
 
 .. figure:: images/pgi.png
     :class: screenshot
 
-* Supports CPython and PyPy.
 * `Github page <https://github.com/lazka/pgi>`__
 
 PyGObject API Documentation Generator
@@ -38,21 +37,17 @@ Audio library tagger, manager, and player for Linux / Windows
 * `Google Code page <https://code.google.com/p/quodlibet/>`__
 
 
-Gstreamer (0.10) Crossfeed Plugin
----------------------------------
-
-Gstreamer crossfeed plugin using the `bs2b library 
-<http://bs2b.sourceforge.net/>`__, created by Boris Mikhaylov.
-
-.. figure:: images/crossfeed.png
-    :class: screenshot
-
-* More info: `Github repo <https://github.com/lazka/gst-bs2b>`__
-* Ubuntu packages: `unstable PPA <https://launchpad.net/%7Elazka/+archive/dumpingplace>`__
-
-
 Old Projects
 ------------
+
+GStreamer Crossfeed Plugin
+    Gstreamer crossfeed plugin using the `bs2b library 
+    <http://bs2b.sourceforge.net/>`__, created by Boris Mikhaylov.
+
+    It's upstream now and part of GStreamer 1.6.
+
+    GStreamer 0.10 verison on `Github <https://github.com/lazka/gst-bs2b>`__.
+
 
 STM32 OS
     Scheduler, locks, framebuffer, newlib integration etc. for STM32 controllers.
