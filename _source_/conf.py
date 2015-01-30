@@ -24,6 +24,7 @@ html_theme_options = {
     'github_button': False,
     'show_powered_by': False,
     'extra_nav_links': collections.OrderedDict([
+        ('Aliquot', 'https://lazka.github.io/aliquot'),
         ('Python GI API Reference', 'https://lazka.github.io/pgi-docs'),
         ('PGI Docgen', 'https://github.com/lazka/pgi-docgen'),
         ('PGI', 'https://github.com/lazka/pgi'),
