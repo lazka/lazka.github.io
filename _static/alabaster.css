@@ -418,7 +418,7 @@ a:hover tt {
 }
 
 
-@media screen and (max-width: 870px) {
+@media screen and (max-width: 740px) {
 
     div.sphinxsidebar {
     	display: none;
