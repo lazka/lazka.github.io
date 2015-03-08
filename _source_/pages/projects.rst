@@ -37,6 +37,14 @@ Audio library tagger, manager, and player for Linux / Windows
 * `Google Code page <https://code.google.com/p/quodlibet/>`__
 
 
+Mutagen
+-------
+
+Python multimedia tagging library
+
+* https://mutagen.readthedocs.org/en/latest/
+
+
 Old Projects
 ------------
 
