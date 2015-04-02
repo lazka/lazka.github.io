@@ -28,7 +28,7 @@ html_theme_options = {
         ('Python GI API Reference', 'https://lazka.github.io/pgi-docs'),
         ('PGI Docgen', 'https://github.com/lazka/pgi-docgen'),
         ('PGI', 'https://github.com/lazka/pgi'),
-        ('Quod Libet', 'https://code.google.com/p/quodlibet'),
+        ('Quod Libet', 'https://quodlibet.readthedocs.org'),
         ('Mutagen', 'https://bitbucket.org/lazka/mutagen'),
     ]),
 }
