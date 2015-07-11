@@ -22,7 +22,7 @@ Auto generated Python API docs for GTK+ 3.0
     :width: 200px
     :class: screenshot
 
-* `Github page <https://github.com/lazka/pgi-docgen>`__
+* `GitHub page <https://github.com/lazka/pgi-docgen>`__
 * `See in action <https://lazka.github.io/pgi-docs/>`__
 
 
@@ -34,7 +34,7 @@ Audio library tagger, manager, and player for Linux / Windows
 .. figure:: images/quodlibet.png
     :class: screenshot
 
-* `Google Code page <https://code.google.com/p/quodlibet/>`__
+* `GitHub page <https://github.com/quodlibet/quodlibet>`__
 
 
 Mutagen
@@ -81,4 +81,4 @@ IVTV Tray
 StudiVZ Sidebar
     Greasemonkeyscript which displays all your online friends in a sidebar with many features and fully configurable.
 
-    Development page: `google code <http://code.google.com/p/svz-scripts/>`__ | `userscript.org <http://userscripts.org/scripts/show/13754>`__
+    Development page: `userscript.org <http://userscripts-mirror.org/scripts/show/13754>`__
