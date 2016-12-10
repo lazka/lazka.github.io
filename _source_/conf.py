@@ -5,7 +5,7 @@ import collections
 extensions = []
 source_suffix = '.rst'
 master_doc = 'index'
-project = u'About'
+project = u'Home'
 copyright = u''
 version = '0.1'
 release = '0.1'
@@ -28,8 +28,9 @@ html_theme_options = {
         ('Python GI API Reference', 'https://lazka.github.io/pgi-docs'),
         ('PGI Docgen', 'https://github.com/lazka/pgi-docgen'),
         ('PGI', 'https://github.com/lazka/pgi'),
-        ('Quod Libet', 'https://quodlibet.readthedocs.org'),
-        ('Mutagen', 'https://bitbucket.org/lazka/mutagen'),
+        ('Quod Libet', 'https://quodlibet.readthedocs.io'),
+        ('Mutagen', 'https://mutagen.readthedocs.io'),
+        ('Senf', 'https://senf.readthedocs.io'),
     ]),
 }
 

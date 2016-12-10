@@ -35,6 +35,7 @@ body {
     color: #000;
     margin: 0;
     padding: 0;
+    overflow-y:scroll;
 }
 
 div.document {
