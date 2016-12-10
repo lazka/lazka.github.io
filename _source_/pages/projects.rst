@@ -1,84 +1,61 @@
+########
 Projects
 ########
 
-Things I'm working on..
+**Senf (2016 - ...)**
+    A platform native string type for Python 2/3
 
-Pure Python GObject Introspection Bindings
-------------------------------------------
+    https://senf.readthedocs.io
 
-GTK+ bindings for CPython and PyPy
+**Aliquot (2015 - ...)**
+    Online Radio Browser
 
-.. figure:: images/pgi.png
-    :class: screenshot
+    | https://lazka.github.io/aliquot
+    | https://github.com/lazka/aliquot
 
-* `Github page <https://github.com/lazka/pgi>`__
+**PGI-Docgen (2013 - ...)**
+    PyGObject API Documentation Generator
 
-PyGObject API Documentation Generator
--------------------------------------
+    | https://lazka.github.io/pgi-docs
+    | https://github.com/lazka/pgi-docgen
 
-Auto generated Python API docs for GTK+ 3.0
+**PGI (2012 - ...)**
+    Pure Python GObject Introspection Bindings
 
-.. figure:: images/pgi-docs.png
-    :width: 200px
-    :class: screenshot
+    https://github.com/lazka/pgi
 
-* `GitHub page <https://github.com/lazka/pgi-docgen>`__
-* `See in action <https://lazka.github.io/pgi-docs/>`__
+**Mutagen (2012 - ...)**
+    Mutagen is a Python module to handle audio metadata. It supports ASF,
+    FLAC, MP4, Monkey’s Audio, MP3, Musepack, Ogg Opus, Ogg FLAC, Ogg Speex,
+    Ogg Theora, Ogg Vorbis, True Audio, WavPack, OptimFROG, and AIFF audio
+    files.
 
+    https://mutagen.readthedocs.io
 
-Quod Libet / Ex Falso
----------------------
+**Quod Libet / Ex Falso (2009 - ...)**
+    Music library manager / player for Linux, Windows, and macOS
 
-Audio library tagger, manager, and player for Linux / Windows
-
-.. figure:: images/quodlibet.png
-    :class: screenshot
-
-* `GitHub page <https://github.com/quodlibet/quodlibet>`__
-
-
-Mutagen
--------
-
-Python multimedia tagging library
-
-* https://mutagen.readthedocs.org/en/latest/
+    https://quodlibet.readthedocs.io
 
 
 Old Projects
 ------------
 
-GStreamer Crossfeed Plugin
-    Gstreamer crossfeed plugin using the `bs2b library 
-    <http://bs2b.sourceforge.net/>`__, created by Boris Mikhaylov.
+**STM32-Hactar (2011 - 2012)**
+    A small operating system for STM32 controllers. Scheduler, locks,
+    framebuffer, sd-card driver, newlib integration etc. A university project
+    and a fun learning experience.
 
-    It's upstream now and part of GStreamer 1.6.
+    https://github.com/lazka/stm32-hactar
 
-    GStreamer 0.10 verison on `Github <https://github.com/lazka/gst-bs2b>`__.
+**GStreamer Crossfeed Plugin (2010 - 2011)**
+    Gstreamer crossfeed plugin using the `bs2b library
+    <http://bs2b.sourceforge.net/>`__, created by Boris Mikhaylov. It's
+    upstream now and part of GStreamer 1.6.
 
+**StudiVZ Sidebar (2008 - 2010)**
+    Greasemonkeyscript which displays all your online friends in a sidebar
+    with many features and fully configurable.
 
-STM32 OS
-    Scheduler, locks, framebuffer, newlib integration etc. for STM32 controllers.
-
-    `GitHub page <https://github.com/lazka/stm32-hactar>`__
-
-
-Rockbox Icons / Fonts
-    Tango icon set (whoch is now the default) and a dejavu font package:
-
-    :download:`Dejavu Font Pack <files/rockbox_dejavu-font-pack.tar.gz>`
-
-    :download:`Tango Icon Theme <files/rockbox_tango-icons-12.tar.gz>`
-
-
-IVTV Tray
-    Simple app for controlling my Haupauge PVR150 TV card (and possibly all 
-    ivtv cards). VLC is used to actually watch TV.
-
-    :download:`Download <files/ivtv-tray.tar.gz>`
-
-
-StudiVZ Sidebar
-    Greasemonkeyscript which displays all your online friends in a sidebar with many features and fully configurable.
-
-    Development page: `userscript.org <http://userscripts-mirror.org/scripts/show/13754>`__
+    Archived userscripts page:
+    https://web.archive.org/web/20131103162948/http://userscripts.org/scripts/show/13754
