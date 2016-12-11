@@ -10,6 +10,9 @@ Various open source contributions
 **Beets**
     https://github.com/beetbox/beets/commits?author=lazka
 
+**Cairo-CFFI**
+    https://github.com/Kozea/cairocffi/commits?author=lazka
+
 **GDK-PixBuf**
     https://git.gnome.org/browse/gdk-pixbuf/log/?qt=author&q=Christoph+Reiter
 
