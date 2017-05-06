@@ -2,6 +2,11 @@
 Projects
 ########
 
+**Pycairo (2017 - ...)**
+    Python 2/3 bindings for cairo
+
+    https://pycairo.readthedocs.io
+
 **Senf (2016 - ...)**
     A platform native string type for Python 2/3
 
