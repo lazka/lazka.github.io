@@ -6,6 +6,7 @@
 For a detailed changelog see
 https://quodlibet.readthedocs.io/en/latest/changelog.html#release-3-9-0
 
+
 ----
 
 .. tweet:: https://twitter.com/QuodLibetApp/status/836532357926645760
