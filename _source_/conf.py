@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+import sys
+sys.path.insert(0, ".")
+
 import collections
 
 extensions = []
@@ -29,4 +32,4 @@ html_show_sourcelink = False
 html_copy_source = False
 html_title = "lazka.github.io"
 
-extensions = ['sphinxcontrib.twitter']
+extensions = ['twitter']
