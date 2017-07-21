@@ -36,6 +36,9 @@ Various open source contributions
 **JHBuild**
     https://git.gnome.org/browse/jhbuild/log/?qt=author&q=Christoph+Reiter
 
+**Meson**
+    https://github.com/mesonbuild/meson/commits/?author=lazka
+
 **MSYS2**
     https://github.com/Alexpux/MINGW-packages/commits/?author=lazka
 
