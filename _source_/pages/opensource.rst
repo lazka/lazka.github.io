@@ -29,6 +29,9 @@ Various open source contributions
 **GTK+**
     https://git.gnome.org/browse/gtk+/log/?qt=author&q=Christoph+Reiter
 
+**GTK-Doc**
+    https://git.gnome.org/browse/gtk-doc/log/?qt=author&q=Christoph+Reiter
+
 **GTK-OSX**
     https://git.gnome.org/browse/gtk-osx/log/?qt=author&q=Christoph+Reiter
     https://git.gnome.org/browse/gtk-mac-bundler/log/?qt=author&q=Christoph+Reiter
