@@ -57,5 +57,8 @@ Various open source contributions
 **PyGObject-Tutorial**
     https://github.com/sebp/PyGObject-Tutorial/commits?author=lazka
 
+**Raven-Python**
+    https://github.com/getsentry/raven-python/commits?author=lazka
+
 **Rockbox**
     https://git.rockbox.org/?p=rockbox.git&a=search&h=HEAD&st=commit&s=Christoph+Reiter
