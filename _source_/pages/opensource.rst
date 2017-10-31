@@ -44,6 +44,7 @@ Various open source contributions
 
 **MSYS2**
     https://github.com/Alexpux/MINGW-packages/commits/?author=lazka
+    https://github.com/Alexpux/MSYS2-packages/commits/?author=lazka
 
 **MusicBrainz Picard**
     https://github.com/metabrainz/picard/commits?author=lazka
