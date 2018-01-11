@@ -39,6 +39,9 @@ Various open source contributions
 **JHBuild**
     https://git.gnome.org/browse/jhbuild/log/?qt=author&q=Christoph+Reiter
 
+**jinja2**
+    https://github.com/pallets/jinja/commits/?author=lazka
+
 **Meson**
     https://github.com/mesonbuild/meson/commits/?author=lazka
 
