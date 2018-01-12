@@ -64,5 +64,8 @@ Various open source contributions
 **Raven-Python**
     https://github.com/getsentry/raven-python/commits?author=lazka
 
+**readthedocs.org**
+    https://github.com/rtfd/readthedocs.org/commits?author=lazka
+
 **Rockbox**
     https://git.rockbox.org/?p=rockbox.git&a=search&h=HEAD&st=commit&s=Christoph+Reiter
