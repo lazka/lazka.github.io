@@ -36,6 +36,9 @@ Various open source contributions
     https://git.gnome.org/browse/gtk-osx/log/?qt=author&q=Christoph+Reiter
     https://git.gnome.org/browse/gtk-mac-bundler/log/?qt=author&q=Christoph+Reiter
 
+**GVSBuild**
+    https://github.com/wingtk/gvsbuild/commits/?author=lazka
+
 **JHBuild**
     https://git.gnome.org/browse/jhbuild/log/?qt=author&q=Christoph+Reiter
 
