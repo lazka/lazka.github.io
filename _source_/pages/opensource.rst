@@ -64,6 +64,9 @@ Various open source contributions
 **PyGObject-Tutorial**
     https://github.com/sebp/PyGObject-Tutorial/commits?author=lazka
 
+**pytest-faulthandler**
+    https://github.com/pytest-dev/pytest-faulthandler/commits?author=lazka
+
 **Raven-Python**
     https://github.com/getsentry/raven-python/commits?author=lazka
 
