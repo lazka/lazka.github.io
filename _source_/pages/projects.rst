@@ -7,6 +7,11 @@ Projects
 
     https://pycairo.readthedocs.io
 
+**PyGObject (2016 - ...)**
+    Python 2/3 bindings for GObject Introspection
+
+    https://pygobject.readthedocs.io
+
 **Senf (2016 - ...)**
     A platform native string type for Python 2/3
 
@@ -24,11 +29,6 @@ Projects
     | https://lazka.github.io/pgi-docs
     | https://github.com/lazka/pgi-docgen
 
-**PGI (2012 - ...)**
-    Pure Python GObject Introspection Bindings
-
-    https://github.com/lazka/pgi
-
 **Mutagen (2012 - ...)**
     Mutagen is a Python module to handle audio metadata. It supports ASF,
     FLAC, MP4, Monkey’s Audio, MP3, Musepack, Ogg Opus, Ogg FLAC, Ogg Speex,
@@ -45,6 +45,11 @@ Projects
 
 Old Projects
 ------------
+
+**PGI (2012 - 2017)**
+    Pure Python GObject Introspection Bindings
+
+    https://github.com/pygobject/pgi
 
 **STM32-Hactar (2011 - 2012)**
     A small operating system for STM32 controllers. Scheduler, locks,
