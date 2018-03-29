@@ -7,6 +7,12 @@ Projects
 
     https://pycairo.readthedocs.io
 
+**MSYS2-Web (2017 - ...)**
+    MSYS2 repository web interface
+
+    | https://quodlibet.duckdns.org/msys2
+    | https://github.com/lazka/msys2-web
+
 **PyGObject (2016 - ...)**
     Python 2/3 bindings for GObject Introspection
 
