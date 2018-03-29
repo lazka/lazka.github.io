@@ -5,7 +5,7 @@ Contributions
 Various open source contributions
 
 **Adwaita Icon Theme**
-    https://git.gnome.org/browse/adwaita-icon-theme/log/?qt=author&q=Christoph+Reiter
+    https://github.com/GNOME/adwaita-icon-theme/commits?author=lazka
 
 **Beets**
     https://github.com/beetbox/beets/commits?author=lazka
@@ -14,33 +14,34 @@ Various open source contributions
     https://github.com/Kozea/cairocffi/commits?author=lazka
 
 **GDK-PixBuf**
-    https://git.gnome.org/browse/gdk-pixbuf/log/?qt=author&q=Christoph+Reiter
+    https://github.com/GNOME/gdk-pixbuf/commits?author=lazka
 
 **GLib**
-    https://git.gnome.org/browse/glib/log/?qt=author&q=Christoph+Reiter
+    https://github.com/GNOME/glib/commits?author=lazka
 
 **GObject Introspection**
-    https://git.gnome.org/browse/gobject-introspection/log/?qt=author&q=Christoph+Reiter
+    https://github.com/GNOME/gobject-introspection/commits?author=lazka
 
 **GStreamer**
+    | https://cgit.freedesktop.org/gstreamer/gstreamer/log/?qt=author&q=Christoph+Reiter
     | https://cgit.freedesktop.org/gstreamer/gst-plugins-bad/log/?qt=author&q=Christoph+Reiter
     | https://cgit.freedesktop.org/gstreamer/gst-plugins-good/log/?qt=author&q=Christoph+Reiter
 
 **GTK+**
-    https://git.gnome.org/browse/gtk+/log/?qt=author&q=Christoph+Reiter
+    https://github.com/GNOME/gtk/commits?author=lazka
 
 **GTK-Doc**
-    https://git.gnome.org/browse/gtk-doc/log/?qt=author&q=Christoph+Reiter
+    https://github.com/GNOME/gtk-doc/commits?author=lazka
 
 **GTK-OSX**
-    https://git.gnome.org/browse/gtk-osx/log/?qt=author&q=Christoph+Reiter
-    https://git.gnome.org/browse/gtk-mac-bundler/log/?qt=author&q=Christoph+Reiter
+    | https://github.com/GNOME/gtk-osx/commits?author=lazka
+    | https://github.com/GNOME/gtk-mac-bundler/commits?author=lazka
 
 **GVSBuild**
     https://github.com/wingtk/gvsbuild/commits/?author=lazka
 
 **JHBuild**
-    https://git.gnome.org/browse/jhbuild/log/?qt=author&q=Christoph+Reiter
+    https://github.com/GNOME/jhbuild/commits?author=lazka
 
 **jinja2**
     https://github.com/pallets/jinja/commits/?author=lazka
@@ -49,17 +50,17 @@ Various open source contributions
     https://github.com/mesonbuild/meson/commits/?author=lazka
 
 **MSYS2**
-    https://github.com/Alexpux/MINGW-packages/commits/?author=lazka
-    https://github.com/Alexpux/MSYS2-packages/commits/?author=lazka
+    | https://github.com/Alexpux/MINGW-packages/commits/?author=lazka
+    | https://github.com/Alexpux/MSYS2-packages/commits/?author=lazka
 
 **MusicBrainz Picard**
     https://github.com/metabrainz/picard/commits?author=lazka
 
 **Nautilus**
-    https://git.gnome.org/browse/nautilus/commit/?id=6f2e10df9d18ef9
+    https://github.com/GNOME/nautilus/commit/6f2e10df9d18ef9
 
 **PyGObject**
-    https://git.gnome.org/browse/pygobject/log/?qt=author&q=Christoph+Reiter
+    https://github.com/GNOME/pygobject/commits?author=lazka
 
 **PyGObject-Tutorial**
     https://github.com/sebp/PyGObject-Tutorial/commits?author=lazka
