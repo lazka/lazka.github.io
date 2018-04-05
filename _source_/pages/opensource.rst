@@ -59,6 +59,9 @@ Various open source contributions
 **Nautilus**
     https://github.com/GNOME/nautilus/commit/6f2e10df9d18ef9
 
+**Pango**
+    https://github.com/GNOME/pango/commits?author=lazka
+
 **PyGObject**
     https://github.com/GNOME/pygobject/commits?author=lazka
 
