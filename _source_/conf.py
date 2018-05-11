@@ -32,4 +32,4 @@ html_show_sourcelink = False
 html_copy_source = False
 html_title = "lazka.github.io"
 
-extensions = ['twitter']
+extensions = []
