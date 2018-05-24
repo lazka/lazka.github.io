@@ -19,6 +19,9 @@ Various open source contributions
 **GLib**
     https://github.com/GNOME/glib/commits?author=lazka
 
+**GLib-OpenSSL**
+    https://github.com/GNOME/glib-openssl/commits?author=lazka
+
 **GObject Introspection**
     https://github.com/GNOME/gobject-introspection/commits?author=lazka
 
@@ -58,6 +61,9 @@ Various open source contributions
 
 **Nautilus**
     https://github.com/GNOME/nautilus/commit/6f2e10df9d18ef9
+
+**Orc**
+    https://github.com/GStreamer/orc/commits?author=lazka
 
 **Pango**
     https://github.com/GNOME/pango/commits?author=lazka
