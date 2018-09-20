@@ -7,6 +7,9 @@ Various open source contributions
 **Adwaita Icon Theme**
     https://github.com/GNOME/adwaita-icon-theme/commits?author=lazka
 
+**Astroid**
+    https://github.com/PyCQA/astroid/commits?author=lazka
+
 **Beets**
     https://github.com/beetbox/beets/commits?author=lazka
 
