@@ -59,6 +59,9 @@ Various open source contributions
     | https://github.com/Alexpux/MINGW-packages/commits/?author=lazka
     | https://github.com/Alexpux/MSYS2-packages/commits/?author=lazka
 
+**Matplotlib**
+    https://github.com/matplotlib/matplotlib/commits?author=lazka
+
 **MusicBrainz Picard**
     https://github.com/metabrainz/picard/commits?author=lazka
 
@@ -88,3 +91,6 @@ Various open source contributions
 
 **Rockbox**
     https://git.rockbox.org/?p=rockbox.git&a=search&h=HEAD&st=commit&s=Christoph+Reiter
+
+**SuiteCRM**
+    https://github.com/salesagility/SuiteCRM/commits/master?author=lazka
