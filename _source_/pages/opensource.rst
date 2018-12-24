@@ -28,6 +28,9 @@ Various open source contributions
 **GObject Introspection**
     https://github.com/GNOME/gobject-introspection/commits?author=lazka
 
+**Graphene**
+    https://github.com/ebassi/graphene/commits?author=lazka
+
 **GStreamer**
     | https://cgit.freedesktop.org/gstreamer/gstreamer/log/?qt=author&q=Christoph+Reiter
     | https://cgit.freedesktop.org/gstreamer/gst-plugins-bad/log/?qt=author&q=Christoph+Reiter
