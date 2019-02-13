@@ -77,6 +77,9 @@ Various open source contributions
 **Pango**
     https://github.com/GNOME/pango/commits?author=lazka
 
+**pyenv**
+    https://github.com/pyenv/pyenv/commits?author=lazka
+
 **PyGObject**
     https://github.com/GNOME/pygobject/commits?author=lazka
 
