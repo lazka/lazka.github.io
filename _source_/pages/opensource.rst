@@ -22,6 +22,9 @@ Various open source contributions
 **GLib**
     https://github.com/GNOME/glib/commits?author=lazka
 
+**GLib-Networking**
+    https://github.com/GNOME/glib-networking/commits?author=lazka
+
 **GLib-OpenSSL**
     https://github.com/GNOME/glib-openssl/commits?author=lazka
 
