@@ -10,11 +10,17 @@ Various open source contributions
 **Astroid**
     https://github.com/PyCQA/astroid/commits?author=lazka
 
+**Atk**
+    https://github.com/gnome/atk/commits?author=lazka
+
 **Beets**
     https://github.com/beetbox/beets/commits?author=lazka
 
 **Cairo-CFFI**
     https://github.com/Kozea/cairocffi/commits?author=lazka
+
+**GEdit**
+    https://github.com/gnome/gedit/commits?author=lazka
 
 **GDK-PixBuf**
     https://github.com/GNOME/gdk-pixbuf/commits?author=lazka
