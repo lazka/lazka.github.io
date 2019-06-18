@@ -62,8 +62,8 @@ Various open source contributions
     https://github.com/mesonbuild/meson/commits/?author=lazka
 
 **MSYS2**
-    | https://github.com/Alexpux/MINGW-packages/commits/?author=lazka
-    | https://github.com/Alexpux/MSYS2-packages/commits/?author=lazka
+    | https://github.com/msys2/MINGW-packages/commits/?author=lazka
+    | https://github.com/msys2/MSYS2-packages/commits/?author=lazka
 
 **Matplotlib**
     https://github.com/matplotlib/matplotlib/commits?author=lazka
@@ -74,11 +74,17 @@ Various open source contributions
 **Nautilus**
     https://github.com/GNOME/nautilus/commit/6f2e10df9d18ef9
 
+**Nextcloud-Docker**
+    https://github.com/nextcloud/docker/commits/?author=lazka
+
 **Orc**
     https://github.com/GStreamer/orc/commits?author=lazka
 
 **Pango**
     https://github.com/GNOME/pango/commits?author=lazka
+
+**Pixman**
+    https://cgit.freedesktop.org/pixman/log/?qt=author&q=Christoph+Reiter
 
 **pyenv**
     https://github.com/pyenv/pyenv/commits?author=lazka
