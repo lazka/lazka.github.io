@@ -19,6 +19,9 @@ Various open source contributions
 **Cairo-CFFI**
     https://github.com/Kozea/cairocffi/commits?author=lazka
 
+**Flathub**
+    https://github.com/flathub/org.signal.Signal/commits?author=lazka
+
 **GEdit**
     https://github.com/gnome/gedit/commits?author=lazka
 
