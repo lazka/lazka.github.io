@@ -1,5 +1,5 @@
 all:
-	sphinx-build -E -b html . ..
+	python3 -m sphinx -E -b html . ..
 	rm ../.buildinfo
 	rm -R ../.doctrees
 	echo "" > ../.buildinfo

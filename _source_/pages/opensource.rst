@@ -74,6 +74,9 @@ Various open source contributions
     | https://github.com/msys2/MINGW-packages/commits/?author=lazka
     | https://github.com/msys2/MSYS2-packages/commits/?author=lazka
 
+**Mako**
+    https://github.com/sqlalchemy/mako/commits/master?author=lazka
+
 **Matplotlib**
     https://github.com/matplotlib/matplotlib/commits?author=lazka
 
