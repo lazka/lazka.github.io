@@ -107,6 +107,9 @@ Various open source contributions
 **PyGObject-Tutorial**
     https://github.com/sebp/PyGObject-Tutorial/commits?author=lazka
 
+**pyperformance**
+    https://github.com/python/pyperformance/commits?author=lazka
+
 **pytest-faulthandler**
     https://github.com/pytest-dev/pytest-faulthandler/commits?author=lazka
 
