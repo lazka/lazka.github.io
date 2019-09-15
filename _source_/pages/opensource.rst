@@ -122,5 +122,8 @@ Various open source contributions
 **Rockbox**
     https://git.rockbox.org/?p=rockbox.git&a=search&h=HEAD&st=commit&s=Christoph+Reiter
 
+**setuptools**
+    https://github.com/pypa/setuptools/commits/master?author=lazka
+
 **SuiteCRM**
     https://github.com/salesagility/SuiteCRM/commits/master?author=lazka
