@@ -25,6 +25,9 @@ Various open source contributions
 **GEdit**
     https://github.com/gnome/gedit/commits?author=lazka
 
+**Gegl**
+    https://github.com/gnome/gegl/commits?author=lazka
+
 **GDK-PixBuf**
     https://github.com/GNOME/gdk-pixbuf/commits?author=lazka
 
