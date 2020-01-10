@@ -130,3 +130,6 @@ Various open source contributions
 
 **SuiteCRM**
     https://github.com/salesagility/SuiteCRM/commits/master?author=lazka
+
+**zstd**
+    https://github.com/facebook/zstd/commits/dev?author=lazka
