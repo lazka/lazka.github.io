@@ -38,27 +38,27 @@ only focused on getting the pycairo and pygobject test suites to pass for
 now.</p>
 </div>
 <p>First we set up the basics with PyPy3:</p>
-<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>./pypy3/bin/pypy -m venv _venv
-<span class="nb">source</span> _venv/bin/activate
-python -m pip install pycairo  <span class="c1"># pycairo also supports PyPy now</span>
+<div class="highlight-shell notranslate"><div class="highlight"><pre>./pypy3/bin/pypy -m venv _venv
+<span class="nb">source </span>_venv/bin/activate
+python -m pip install pycairo  <span class="c"># pycairo also supports PyPy now</span>
 python -m pip install git+https://gitlab.gnome.org/GNOME/pygobject.git
 </pre></div>
 </div>
 <p>Let’s try the <a class="reference external" href="https://pygobject.readthedocs.io/en/latest/getting_started.html">first GTK+ example</a> from the
 PyGObject tutorial:</p>
-<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>python test.py
+<div class="highlight-shell notranslate"><div class="highlight"><pre>python test.py
 </pre></div>
 </div>
 <a class="reference internal image-reference" href="../../_images/helloworld.png"><img alt="../../_images/helloworld.png" class="align-center" src="../../_images/helloworld.png" style="width: 400px;" /></a>
 <p>Something more complex, a <a class="reference external" href="https://quodlibet.readthedocs.io">music player</a> written in Python:</p>
-<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>python -m pip install mutagen feedparser
+<div class="highlight-shell notranslate"><div class="highlight"><pre>python -m pip install mutagen feedparser
 git clone https://github.com/quodlibet/quodlibet.git
 python quodlibet/quodlibet/quodlibet.py
 </pre></div>
 </div>
 <a class="reference internal image-reference" href="../../_images/quod.png"><img alt="../../_images/quod.png" class="align-center" src="../../_images/quod.png" style="width: 400px;" /></a>
 <p>And finally, an interactive <a class="reference external" href="https://matplotlib.org/">matplotlib</a> example:</p>
-<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>python -m pip install matplotlib
+<div class="highlight-shell notranslate"><div class="highlight"><pre>python -m pip install matplotlib
 curl -O https://raw.githubusercontent.com/matplotlib/matplotlib/master/examples/event_handling/path_editor.py
 python path_editor.py
 </pre></div>

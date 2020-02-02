@@ -116,6 +116,9 @@ Various open source contributions
 **pytest-faulthandler**
     https://github.com/pytest-dev/pytest-faulthandler/commits?author=lazka
 
+**CPython**
+    https://github.com/python/cpython/commits?author=lazka
+
 **Raven-Python**
     https://github.com/getsentry/raven-python/commits?author=lazka
 
