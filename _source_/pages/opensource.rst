@@ -98,6 +98,9 @@ Various open source contributions
 **Pango**
     https://github.com/GNOME/pango/commits?author=lazka
 
+**Pip**
+    https://github.com/pypa/pip/commits?author=lazka
+
 **Pixman**
     https://cgit.freedesktop.org/pixman/log/?qt=author&q=Christoph+Reiter
 
