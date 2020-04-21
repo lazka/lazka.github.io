@@ -64,6 +64,9 @@ Various open source contributions
 **GVSBuild**
     https://github.com/wingtk/gvsbuild/commits/?author=lazka
 
+**HarfBuzz**
+    https://github.com/harfbuzz/harfbuzz/commits/?author=lazka
+
 **JHBuild**
     https://github.com/GNOME/jhbuild/commits?author=lazka
 
