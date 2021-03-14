@@ -10,7 +10,7 @@ Projects
 **MSYS2-Web (2017 - ...)**
     MSYS2 repository web interface
 
-    | https://quodlibet.duckdns.org/msys2
+    | https://packages.msys2.org
     | https://github.com/lazka/msys2-web
 
 **PyGObject (2016 - ...)**
