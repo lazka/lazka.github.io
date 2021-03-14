@@ -16,6 +16,7 @@ exclude_patterns = []
 pygments_style = 'sphinx'
 html_theme = 'alabaster'
 html_theme_path = ['.']
+html_static_path = ['static']
 
 html_sidebars = {
    '**': [

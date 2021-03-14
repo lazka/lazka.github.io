@@ -15,10 +15,8 @@ New plugin by @dvillevalois for only showing the menu bar when pressing Alt.
 .. raw:: html
 
      <video controls loop="loop">
-      <source src="../../_downloads/2017-02-28_11.03.50-836532357926645760-gif-video-1.mp4" type="video/mp4">
+      <source src="../../_static/2017-02-28_11.03.50-836532357926645760-gif-video-1.mp4" type="video/mp4">
     </video> 
-
-:download:`media/2017-02-28_11.03.50-836532357926645760-gif-video-1.mp4`
 
 ----
 
@@ -69,10 +67,8 @@ Next QL will include a plugin for changing the user interface language
 .. raw:: html
 
      <video controls loop="loop">
-      <source src="../../_downloads/2017-03-01_09.57.21-836878012431888384-gif-video-1.mp4" type="video/mp4">
+      <source src="../../_static/2017-03-01_09.57.21-836878012431888384-gif-video-1.mp4" type="video/mp4">
     </video> 
-
-:download:`media/2017-03-01_09.57.21-836878012431888384-gif-video-1.mp4`
 
 ----
 
@@ -93,10 +89,8 @@ New bpm tap plugin, by @dvillevalois
 .. raw:: html
 
      <video controls loop="loop">
-      <source src="../../_downloads/2017-03-01_10.21.07-836883996348977153-gif-video-1.mp4" type="video/mp4">
+      <source src="../../_static/2017-03-01_10.21.07-836883996348977153-gif-video-1.mp4" type="video/mp4">
     </video> 
-
-:download:`media/2017-03-01_10.21.07-836883996348977153-gif-video-1.mp4`
 
 ----
 
@@ -122,10 +116,8 @@ Panes in the paned browser can now be resized.
 .. raw:: html
 
      <video controls loop="loop">
-      <source src="../../_downloads/2017-03-14_15.55.47-841679257101316097-gif-video-1.mp4" type="video/mp4">
+      <source src="../../_static/2017-03-14_15.55.47-841679257101316097-gif-video-1.mp4" type="video/mp4">
     </video> 
-
-:download:`media/2017-03-14_15.55.47-841679257101316097-gif-video-1.mp4`
 
 ----
 
@@ -136,10 +128,8 @@ Some grouping for our evergrowing list of plugins.
 .. raw:: html
 
      <video controls loop="loop">
-      <source src="../../_downloads/2017-03-17_19.16.58-842817051643252737-gif-video-1.mp4" type="video/mp4">
+      <source src="../../_static/2017-03-17_19.16.58-842817051643252737-gif-video-1.mp4" type="video/mp4">
     </video> 
-
-:download:`media/2017-03-17_19.16.58-842817051643252737-gif-video-1.mp4`
 
 ----
 
