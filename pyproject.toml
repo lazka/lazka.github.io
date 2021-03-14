@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "lazka.github.io"
+version = "0.1.0"
+description = ""
+authors = ["Christoph Reiter"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Sphinx = "^3.5.2"
+
+[tool.poetry.dev-dependencies]
