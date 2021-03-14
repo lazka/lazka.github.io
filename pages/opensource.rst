@@ -89,6 +89,9 @@ Various open source contributions
 **Matplotlib**
     https://github.com/matplotlib/matplotlib/commits?author=lazka
 
+**maxflow**
+    https://github.com/gerddie/maxflow/commits?author=lazka
+
 **MusicBrainz Picard**
     https://github.com/metabrainz/picard/commits?author=lazka
 
@@ -104,8 +107,17 @@ Various open source contributions
 **Pango**
     https://github.com/GNOME/pango/commits?author=lazka
 
+**pip**
+    https://github.com/pypa/pip/commits?author=lazka
+
 **Pixman**
     https://cgit.freedesktop.org/pixman/log/?qt=author&q=Christoph+Reiter
+
+**pkgconf**
+    https://github.com/pkgconf/pkgconf/commits?author=lazka
+
+**Poetry**
+    https://github.com/python-poetry/poetry/commits?author=lazka
 
 **pyenv**
     https://github.com/pyenv/pyenv/commits?author=lazka
@@ -115,6 +127,9 @@ Various open source contributions
 
 **PyGObject-Tutorial**
     https://github.com/sebp/PyGObject-Tutorial/commits?author=lazka
+
+**PyO3**
+    https://github.com/PyO3/pyo3/commits?author=lazka
 
 **pyperformance**
     https://github.com/python/pyperformance/commits?author=lazka
@@ -132,7 +147,7 @@ Various open source contributions
     https://github.com/rtfd/readthedocs.org/commits?author=lazka
 
 **Rockbox**
-    https://git.rockbox.org/?p=rockbox.git&a=search&h=HEAD&st=commit&s=Christoph+Reiter
+    https://git.rockbox.org/cgit/rockbox.git/log/?qt=grep&q=Christoph+Reiter
 
 **setuptools**
     https://github.com/pypa/setuptools/commits/master?author=lazka
