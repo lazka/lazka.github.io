@@ -25,6 +25,6 @@ Hi, I'm Christoph Reiter...
     :titlesonly:
     :glob:
 
-    pages/projects
     pages/opensource
+    pages/projects
     posts

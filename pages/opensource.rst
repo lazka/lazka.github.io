@@ -1,6 +1,6 @@
-=============
-Contributions
-=============
+===========
+Open Source
+===========
 
 Various open source contributions
 
@@ -16,11 +16,21 @@ Various open source contributions
 **Beets**
     https://github.com/beetbox/beets/commits?author=lazka
 
+**boost**
+    | https://github.com/boostorg/nowide/commits?author=lazka
+    | https://github.com/boostorg/log/commits?author=lazka
+
+**botan**
+    https://github.com/randombit/botan/commits?author=lazka
+
 **Cairo-CFFI**
     https://github.com/Kozea/cairocffi/commits?author=lazka
 
 **Cargo-C**
     https://github.com/lu-zero/cargo-c/commits?author=lazka
+
+**CMake**
+    https://github.com/Kitware/CMake/commits?author=lazka
 
 **Flathub**
     https://github.com/flathub/org.signal.Signal/commits?author=lazka
@@ -70,6 +80,9 @@ Various open source contributions
 **HarfBuzz**
     https://github.com/harfbuzz/harfbuzz/commits/?author=lazka
 
+**hcert-kotlin**
+    https://github.com/ehn-dcc-development/hcert-kotlin/commits?author=lazka
+
 **JHBuild**
     https://github.com/GNOME/jhbuild/commits?author=lazka
 
@@ -100,6 +113,9 @@ Various open source contributions
 
 **Nextcloud-Docker**
     https://github.com/nextcloud/docker/commits/?author=lazka
+
+**numpy**
+    https://github.com/numpy/numpy/commits?author=lazka
 
 **Orc**
     https://github.com/GStreamer/orc/commits?author=lazka
