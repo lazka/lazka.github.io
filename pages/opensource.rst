@@ -32,6 +32,9 @@ Various open source contributions
 **CMake**
     https://github.com/Kitware/CMake/commits?author=lazka
 
+**distutils**
+    https://github.com/pypa/distutils/commits?author=lazka
+
 **Flathub**
     https://github.com/flathub/org.signal.Signal/commits?author=lazka
 
