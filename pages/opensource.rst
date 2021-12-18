@@ -92,6 +92,9 @@ Various open source contributions
 **jinja2**
     https://github.com/pallets/jinja/commits/?author=lazka
 
+**libheif**
+    https://github.com/strukturag/libheif/commits?author=lazka
+
 **Meson**
     https://github.com/mesonbuild/meson/commits/?author=lazka
 
