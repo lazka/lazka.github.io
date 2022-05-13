@@ -9,7 +9,7 @@ Hi, I'm Christoph Reiter...
     Mývatn / Iceland
 
 **IRC**
-    quakenet, EUIrc, freenode (/query lazka)
+    quakenet, EUIrc, libera (/query lazka)
 **E-Mail**
     reiter.christoph@gmail.com
 **PGP**
