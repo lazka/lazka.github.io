@@ -92,6 +92,9 @@ Various open source contributions
 **jinja2**
     https://github.com/pallets/jinja/commits/?author=lazka
 
+**kanboard**
+    https://github.com/kanboard/kanboard/commits/?author=lazka
+
 **libheif**
     https://github.com/strukturag/libheif/commits?author=lazka
 
@@ -161,6 +164,12 @@ Various open source contributions
 
 **CPython**
     https://github.com/python/cpython/commits?author=lazka
+
+**speex**
+    https://gitlab.xiph.org/xiph/speex/-/commits/master?author=Christoph%20Reiter
+
+**speexdsp**
+    https://gitlab.xiph.org/xiph/speexdsp/-/commits/master?author=Christoph%20Reiter
 
 **Raven-Python**
     https://github.com/getsentry/raven-python/commits?author=lazka
