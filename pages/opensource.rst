@@ -95,6 +95,9 @@ Various open source contributions
 **kanboard**
     https://github.com/kanboard/kanboard/commits/?author=lazka
 
+**jaraco/keyring**
+    https://github.com/jaraco/keyring/commits/?author=lazka
+
 **libheif**
     https://github.com/strukturag/libheif/commits?author=lazka
 
