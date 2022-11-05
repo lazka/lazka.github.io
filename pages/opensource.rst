@@ -104,6 +104,9 @@ Various open source contributions
 **Meson**
     https://github.com/mesonbuild/meson/commits/?author=lazka
 
+**mingw-w64**
+    https://github.com/mingw-w64/mingw-w64/commits?author=lazka
+
 **MSYS2**
     | https://github.com/msys2/MINGW-packages/commits/?author=lazka
     | https://github.com/msys2/MSYS2-packages/commits/?author=lazka
