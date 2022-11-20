@@ -1,5 +1,8 @@
 all:
-	python3 -m sphinx -E -b html . _build
+	sphinx-build -E -b html . _build
+
+watch:
+	sphinx-autobuild -b html . _build
 
 clean:
 	rm -Rf _build

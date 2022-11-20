@@ -9,3 +9,4 @@ python = "^3.8"
 Sphinx = "^5.3.0"
 
 [tool.poetry.dev-dependencies]
+sphinx-autobuild = "^2021.3.14"
