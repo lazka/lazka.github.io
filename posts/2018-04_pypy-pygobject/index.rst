@@ -1,5 +1,5 @@
-[2018-04] PyPy & PyGObject
---------------------------
+PyPy & PyGObject
+----------------
 
 You can now run applications using `PyGObject
 <https://pygobject.readthedocs.io>`__ with `PyPy <http://pypy.org/>`__. This

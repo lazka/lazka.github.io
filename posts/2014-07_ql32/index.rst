@@ -1,5 +1,5 @@
-[2014-07] Quod Libet 3.2 Highlights
-===================================
+Quod Libet 3.2 Highlights
+=========================
 
 *(Quod Libet is a audio library tagger, manager, and player for Linux / Windows)*
 

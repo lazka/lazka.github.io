@@ -23,8 +23,7 @@ Hi, I'm Christoph Reiter...
 .. toctree::
     :hidden:
     :titlesonly:
-    :glob:
 
     pages/opensource
-    pages/projects
     posts
+
