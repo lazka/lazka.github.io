@@ -6,6 +6,6 @@ authors = ["Christoph Reiter"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Sphinx = "^4.3.1"
+Sphinx = "^5.3.0"
 
 [tool.poetry.dev-dependencies]
