@@ -2,7 +2,7 @@
 Open Source
 ===========
 
-Various open source contributions
+Various open source contributions. Some are just drive-by commits, some projects I help maintain.
 
 **Adwaita Icon Theme**
     https://github.com/GNOME/adwaita-icon-theme/commits?author=lazka
@@ -123,6 +123,9 @@ Various open source contributions
 **MusicBrainz Picard**
     https://github.com/metabrainz/picard/commits?author=lazka
 
+**mutagen**
+    https://github.com/quodlibet/mutagen/commits?author=lazka
+
 **Nautilus**
     https://github.com/GNOME/nautilus/commit/6f2e10df9d18ef9
 
@@ -150,6 +153,9 @@ Various open source contributions
 **Poetry**
     https://github.com/python-poetry/poetry/commits?author=lazka
 
+**Pycairo**
+    https://github.com/pygobject/pycairo/commits?author=lazka
+
 **pyenv**
     https://github.com/pyenv/pyenv/commits?author=lazka
 
@@ -170,6 +176,9 @@ Various open source contributions
 
 **CPython**
     https://github.com/python/cpython/commits?author=lazka
+
+**Quod Libet**
+    https://github.com/quodlibet/quodlibet/commits?author=lazka
 
 **speex**
     https://gitlab.xiph.org/xiph/speex/-/commits/master?author=Christoph%20Reiter
@@ -194,3 +203,48 @@ Various open source contributions
 
 **zstd**
     https://github.com/facebook/zstd/commits/dev?author=lazka
+
+
+Old Personal Projects
+---------------------
+
+**PGI (2012 - 2017)**
+    Pure Python GObject Introspection Bindings
+
+    https://github.com/pygobject/pgi
+
+**PGI-Docgen (2013)**
+    PyGObject API Documentation Generator
+
+    | https://lazka.github.io/pgi-docs
+    | https://github.com/lazka/pgi-docgen
+
+**STM32-Hactar (2011 - 2012)**
+    A small operating system for STM32 controllers. Scheduler, locks,
+    framebuffer, sd-card driver, newlib integration etc. A university project
+    and a fun learning experience.
+
+    https://github.com/lazka/stm32-hactar
+
+**GStreamer Crossfeed Plugin (2010 - 2011)**
+    Gstreamer crossfeed plugin using the `bs2b library
+    <http://bs2b.sourceforge.net/>`__, created by Boris Mikhaylov. It's
+    upstream now and part of GStreamer 1.6.
+
+**StudiVZ Sidebar (2008 - 2010)**
+    Greasemonkeyscript which displays all your online friends in a sidebar
+    with many features and fully configurable.
+
+    Archived userscripts page:
+    https://web.archive.org/web/20131103162948/http://userscripts.org/scripts/show/13754
+
+**Aliquot (2015)**
+    Online Radio Browser
+
+    | https://lazka.github.io/aliquot
+    | https://github.com/lazka/aliquot
+
+**Senf (2016)**
+    A platform native string type for Python 2/3
+
+    https://senf.readthedocs.io
