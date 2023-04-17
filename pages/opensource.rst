@@ -4,6 +4,9 @@ Open Source
 
 Various open source contributions. Some are just drive-by commits, some projects I help maintain.
 
+**actions/toolkit**
+    https://github.com/actions/toolkit/commits?author=lazka
+
 **Adwaita Icon Theme**
     https://github.com/GNOME/adwaita-icon-theme/commits?author=lazka
 
@@ -120,6 +123,9 @@ Various open source contributions. Some are just drive-by commits, some projects
 **maxflow**
     https://github.com/gerddie/maxflow/commits?author=lazka
 
+**mpv-player/mpv**
+    https://github.com/mpv-player/mpv/commits?author=lazka
+
 **MusicBrainz Picard**
     https://github.com/metabrainz/picard/commits?author=lazka
 
@@ -197,6 +203,12 @@ Various open source contributions. Some are just drive-by commits, some projects
 
 **setuptools**
     https://github.com/pypa/setuptools/commits/master?author=lazka
+
+**starpu-runtime/starpu**
+    https://github.com/starpu-runtime/starpu/commits?author=lazka
+
+**steffengy/schannel-rs**
+    https://github.com/steffengy/schannel-rs/commits?author=lazka
 
 **SuiteCRM**
     https://github.com/salesagility/SuiteCRM/commits/master?author=lazka
