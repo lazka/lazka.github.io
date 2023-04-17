@@ -2,7 +2,7 @@
 Open Source
 ===========
 
-Various open source contributions. Some are just drive-by commits, some projects I help maintain.
+Various open source contributions. Most are just drive-by commits, some projects I help maintain.
 
 **actions/toolkit**
     https://github.com/actions/toolkit/commits?author=lazka
