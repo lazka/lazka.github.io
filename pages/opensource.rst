@@ -7,65 +7,66 @@ Various open source contributions. Most are just drive-by commits, some projects
 **actions/toolkit**
     https://github.com/actions/toolkit/commits?author=lazka
 
-**Adwaita Icon Theme**
+**GNOME/adwaita-icon-theme**
     https://github.com/GNOME/adwaita-icon-theme/commits?author=lazka
 
-**Astroid**
-    https://github.com/PyCQA/astroid/commits?author=lazka
+**pylint-dev/astroid**
+    https://github.com/pylint-dev/astroid/commits?author=lazka
 
-**Atk**
+**gnome/atk**
     https://github.com/gnome/atk/commits?author=lazka
 
-**Beets**
+**beetbox/beets**
     https://github.com/beetbox/beets/commits?author=lazka
 
-**boost**
+**boostorg**
     | https://github.com/boostorg/nowide/commits?author=lazka
     | https://github.com/boostorg/log/commits?author=lazka
 
-**botan**
+**randombit/botan**
     https://github.com/randombit/botan/commits?author=lazka
 
-**Cairo-CFFI**
+**Kozea/cairocffi**
     https://github.com/Kozea/cairocffi/commits?author=lazka
 
-**Cargo-C**
+**lu-zero/cargo-c**
     https://github.com/lu-zero/cargo-c/commits?author=lazka
 
-**CMake**
+**Kitware/CMake**
     https://github.com/Kitware/CMake/commits?author=lazka
 
 **cygwin-apps/rebase**
     https://cygwin.com/git/?p=cygwin-apps/rebase.git;a=search;s=Christoph+Reiter;st=author
 
-**distutils**
+**pypa/distutils**
     https://github.com/pypa/distutils/commits?author=lazka
 
-**Flathub**
-    https://github.com/flathub/org.signal.Signal/commits?author=lazka
+**flathub**
+    | https://github.com/flathub/org.signal.Signal/commits?author=lazka
+    | https://github.com/flathub/org.zulip.Zulip/commits?author=lazka
 
-**GEdit**
-    https://github.com/gnome/gedit/commits?author=lazka
+**GNOME/gedit**
+    https://github.com/GNOME/gedit/commits?author=lazka
 
-**Gegl**
-    https://github.com/gnome/gegl/commits?author=lazka
+**GNOME/gegl**
+    https://github.com/GNOME/gegl/commits?author=lazka
 
-**GDK-PixBuf**
+**GNOME/gdk-pixbuf**
     https://github.com/GNOME/gdk-pixbuf/commits?author=lazka
 
-**GLib**
+**GNOME/glib**
     https://github.com/GNOME/glib/commits?author=lazka
 
-**GLib-Networking**
+**GNOME/glib-networking**
     https://github.com/GNOME/glib-networking/commits?author=lazka
 
-**GLib-OpenSSL**
-    https://github.com/GNOME/glib-openssl/commits?author=lazka
+**GNOME/glib-openssl**
+    https://gitlab.gnome.org/Archive/glib-openssl/-/commits/master?author=Christoph%20Reiter
 
-**GObject Introspection**
+**GNOME/gobject-introspection**
     https://github.com/GNOME/gobject-introspection/commits?author=lazka
 
-**Graphene**
+**ebassi/graphene**
     https://github.com/ebassi/graphene/commits?author=lazka
 
 **GStreamer**
@@ -73,138 +74,138 @@ Various open source contributions. Most are just drive-by commits, some projects
     | https://cgit.freedesktop.org/gstreamer/gst-plugins-bad/log/?qt=author&q=Christoph+Reiter
     | https://cgit.freedesktop.org/gstreamer/gst-plugins-good/log/?qt=author&q=Christoph+Reiter
 
-**GTK+**
+**GNOME/gtk**
     https://github.com/GNOME/gtk/commits?author=lazka
 
-**GTK-Doc**
+**GNOME/gtk-doc**
     https://github.com/GNOME/gtk-doc/commits?author=lazka
 
-**GTK-OSX**
+**GNOME/gtk-osx**
     | https://github.com/GNOME/gtk-osx/commits?author=lazka
     | https://github.com/GNOME/gtk-mac-bundler/commits?author=lazka
 
-**GVSBuild**
+**wingtk/gvsbuild**
     https://github.com/wingtk/gvsbuild/commits/?author=lazka
 
-**HarfBuzz**
+**harfbuzz/harfbuzz**
     https://github.com/harfbuzz/harfbuzz/commits/?author=lazka
 
-**hcert-kotlin**
+**ehn-dcc-development/hcert-kotlin**
     https://github.com/ehn-dcc-development/hcert-kotlin/commits?author=lazka
 
-**JHBuild**
+**GNOME/jhbuild**
     https://github.com/GNOME/jhbuild/commits?author=lazka
 
-**jinja2**
+**pallets/jinja**
     https://github.com/pallets/jinja/commits/?author=lazka
 
-**kanboard**
+**kanboard/kanboard**
     https://github.com/kanboard/kanboard/commits/?author=lazka
 
 **jaraco/keyring**
     https://github.com/jaraco/keyring/commits/?author=lazka
 
-**libheif**
+**strukturag/libheif**
     https://github.com/strukturag/libheif/commits?author=lazka
 
-**Meson**
+**mesonbuild/meson**
     https://github.com/mesonbuild/meson/commits/?author=lazka
 
-**mingw-w64**
+**mingw-w64/mingw-w64**
     https://github.com/mingw-w64/mingw-w64/commits?author=lazka
 
 **MSYS2**
     | https://github.com/msys2/MINGW-packages/commits/?author=lazka
     | https://github.com/msys2/MSYS2-packages/commits/?author=lazka
 
-**Mako**
-    https://github.com/sqlalchemy/mako/commits/master?author=lazka
+**sqlalchemy/mako**
+    https://github.com/sqlalchemy/mako/commits/?author=lazka
 
-**Matplotlib**
+**matplotlib/matplotlib**
     https://github.com/matplotlib/matplotlib/commits?author=lazka
 
-**maxflow**
+**gerddie/maxflow**
     https://github.com/gerddie/maxflow/commits?author=lazka
 
 **mpv-player/mpv**
     https://github.com/mpv-player/mpv/commits?author=lazka
 
-**MusicBrainz Picard**
+**metabrainz/picard**
     https://github.com/metabrainz/picard/commits?author=lazka
 
-**mutagen**
+**quodlibet/mutagen**
     https://github.com/quodlibet/mutagen/commits?author=lazka
 
-**Nautilus**
+**GNOME/nautilus**
     https://github.com/GNOME/nautilus/commit/6f2e10df9d18ef9
 
-**Nextcloud-Docker**
+**nextcloud/docker**
     https://github.com/nextcloud/docker/commits/?author=lazka
 
-**numpy**
+**numpy/numpy**
     https://github.com/numpy/numpy/commits?author=lazka
 
-**Orc**
+**GStreamer/orc**
     https://github.com/GStreamer/orc/commits?author=lazka
 
-**Pango**
+**GNOME/pango**
     https://github.com/GNOME/pango/commits?author=lazka
 
-**pip**
+**pypa/pip**
     https://github.com/pypa/pip/commits?author=lazka
 
-**Pixman**
-    https://cgit.freedesktop.org/pixman/log/?qt=author&q=Christoph+Reiter
+**pixman/pixman**
+    https://gitlab.freedesktop.org/pixman/pixman/-/commits/master?author=Christoph%20Reiter
 
-**pkgconf**
+**pkgconf/pkgconf**
     https://github.com/pkgconf/pkgconf/commits?author=lazka
 
-**Poetry**
+**python-poetry/poetry**
     https://github.com/python-poetry/poetry/commits?author=lazka
 
-**Pycairo**
+**pygobject/pycairo**
     https://github.com/pygobject/pycairo/commits?author=lazka
 
-**pyenv**
+**pyenv/pyenv**
     https://github.com/pyenv/pyenv/commits?author=lazka
 
-**PyGObject**
+**GNOME/pygobject**
     https://github.com/GNOME/pygobject/commits?author=lazka
 
-**PyGObject-Tutorial**
+**sebp/PyGObject-Tutorial**
     https://github.com/sebp/PyGObject-Tutorial/commits?author=lazka
 
-**PyO3**
+**PyO3/pyo3**
     https://github.com/PyO3/pyo3/commits?author=lazka
 
-**pyperformance**
+**python/pyperformance**
     https://github.com/python/pyperformance/commits?author=lazka
 
-**pytest-faulthandler**
+**pytest-dev/pytest-faulthandler**
     https://github.com/pytest-dev/pytest-faulthandler/commits?author=lazka
 
-**CPython**
+**python/cpython**
     https://github.com/python/cpython/commits?author=lazka
 
-**Quod Libet**
+**quodlibet/quodlibet**
     https://github.com/quodlibet/quodlibet/commits?author=lazka
 
-**speex**
+**xiph/speex**
     https://gitlab.xiph.org/xiph/speex/-/commits/master?author=Christoph%20Reiter
 
-**speexdsp**
+**xiph/speexdsp**
     https://gitlab.xiph.org/xiph/speexdsp/-/commits/master?author=Christoph%20Reiter
 
-**Raven-Python**
+**getsentry/raven-pytho**
     https://github.com/getsentry/raven-python/commits?author=lazka
 
-**readthedocs.org**
+**rtfd/readthedocs.org**
     https://github.com/rtfd/readthedocs.org/commits?author=lazka
 
-**Rockbox**
+**rockbox**
     https://git.rockbox.org/cgit/rockbox.git/log/?qt=grep&q=Christoph+Reiter
 
-**setuptools**
+**pypa/setuptools**
     https://github.com/pypa/setuptools/commits/master?author=lazka
 
 **starpu-runtime/starpu**
@@ -213,10 +214,10 @@ Various open source contributions. Most are just drive-by commits, some projects
 **steffengy/schannel-rs**
     https://github.com/steffengy/schannel-rs/commits?author=lazka
 
-**SuiteCRM**
+**salesagility/SuiteCRM**
     https://github.com/salesagility/SuiteCRM/commits/master?author=lazka
 
-**zstd**
+**facebook/zstd**
     https://github.com/facebook/zstd/commits/dev?author=lazka
 
 
