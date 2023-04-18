@@ -35,6 +35,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **CMake**
     https://github.com/Kitware/CMake/commits?author=lazka
 
+**cygwin-apps/rebase**
+    https://cygwin.com/git/?p=cygwin-apps/rebase.git;a=search;s=Christoph+Reiter;st=author
+
 **distutils**
     https://github.com/pypa/distutils/commits?author=lazka
 
