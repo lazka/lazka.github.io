@@ -84,6 +84,9 @@ Various open source contributions. Most are just drive-by commits, some projects
     | https://github.com/GNOME/gtk-osx/commits?author=lazka
     | https://github.com/GNOME/gtk-mac-bundler/commits?author=lazka
 
+**GNOME/libxml2**
+    https://gitlab.gnome.org/GNOME/libxml2/-/commits/master?author=Christoph%20Reiter
+
 **wingtk/gvsbuild**
     https://github.com/wingtk/gvsbuild/commits/?author=lazka
 
