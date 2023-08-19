@@ -223,6 +223,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **facebook/zstd**
     https://github.com/facebook/zstd/commits/dev?author=lazka
 
+**libgit2/libgit2**
+    https://github.com/libgit2/libgit2/commits?author=lazka
+
 
 Old Personal Projects
 ---------------------
