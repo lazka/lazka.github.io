@@ -112,8 +112,8 @@ Various open source contributions. Most are just drive-by commits, some projects
     https://github.com/strukturag/libheif/commits?author=lazka
 
 **mesonbuild**
-    https://github.com/mesonbuild/meson/commits/?author=lazka
-    https://github.com/mesonbuild/wrapdb/commits?author=lazka
+    | https://github.com/mesonbuild/meson/commits/?author=lazka
+    | https://github.com/mesonbuild/wrapdb/commits?author=lazka
 
 **mingw-w64/mingw-w64**
     https://github.com/mingw-w64/mingw-w64/commits?author=lazka
