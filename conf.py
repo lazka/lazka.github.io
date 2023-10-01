@@ -27,6 +27,9 @@ html_sidebars = {
 html_theme_options = {
     'github_button': False,
     'show_powered_by': False,
+    'extra_nav_links': {
+        'Search': 'search.html',
+    }
 }
 
 html_show_sourcelink = False
