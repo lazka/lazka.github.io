@@ -5,8 +5,8 @@ description = ""
 authors = ["Christoph Reiter"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-Sphinx = "^5.3.0"
+python = "^3.9"
+Sphinx = "^7.2.6"
 
 [tool.poetry.dev-dependencies]
 sphinx-autobuild = "^2021.3.14"
