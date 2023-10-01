@@ -227,6 +227,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **libgit2/libgit2**
     https://github.com/libgit2/libgit2/commits?author=lazka
 
+**fmtlib/fmt**
+    https://github.com/fmtlib/fmt/commits?author=lazka
+
 
 Old Personal Projects
 ---------------------
