@@ -114,6 +114,7 @@ Various open source contributions. Most are just drive-by commits, some projects
 **mesonbuild**
     | https://github.com/mesonbuild/meson/commits/?author=lazka
     | https://github.com/mesonbuild/wrapdb/commits?author=lazka
+    | https://github.com/mesonbuild/meson-python/commits?author=lazka
 
 **mingw-w64/mingw-w64**
     https://github.com/mingw-w64/mingw-w64/commits?author=lazka
