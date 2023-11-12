@@ -231,6 +231,8 @@ Various open source contributions. Most are just drive-by commits, some projects
 **fmtlib/fmt**
     https://github.com/fmtlib/fmt/commits?author=lazka
 
+**endoflife-date/endoflife.date**
+    https://github.com/endoflife-date/endoflife.date/commits?author=lazka
 
 Old Personal Projects
 ---------------------
