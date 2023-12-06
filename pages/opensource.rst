@@ -211,7 +211,7 @@ Various open source contributions. Most are just drive-by commits, some projects
     https://git.rockbox.org/cgit/rockbox.git/log/?qt=grep&q=Christoph+Reiter
 
 **pypa/setuptools**
-    https://github.com/pypa/setuptools/commits/master?author=lazka
+    https://github.com/pypa/setuptools/commits?author=lazka
 
 **starpu-runtime/starpu**
     https://github.com/starpu-runtime/starpu/commits?author=lazka
