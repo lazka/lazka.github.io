@@ -234,6 +234,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **endoflife-date/endoflife.date**
     https://github.com/endoflife-date/endoflife.date/commits?author=lazka
 
+**PyGithub/PyGithub**
+    https://github.com/PyGithub/PyGithub/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
