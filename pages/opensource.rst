@@ -168,6 +168,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **python-poetry/poetry**
     https://github.com/python-poetry/poetry/commits?author=lazka
 
+**python-poetry/poetry-core**
+    https://github.com/python-poetry/poetry-core/commits?author=lazka
+
 **pygobject/pycairo**
     https://github.com/pygobject/pycairo/commits?author=lazka
 
