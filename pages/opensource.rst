@@ -240,6 +240,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **PyGithub/PyGithub**
     https://github.com/PyGithub/PyGithub/commits?author=lazka
 
+**CycloneDX/cyclonedx-python-lib**
+    https://github.com/CycloneDX/cyclonedx-python-lib/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
