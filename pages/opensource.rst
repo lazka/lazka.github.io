@@ -243,6 +243,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **CycloneDX/cyclonedx-python-lib**
     https://github.com/CycloneDX/cyclonedx-python-lib/commits?author=lazka
 
+**danny-avila/LibreChat**
+    https://github.com/danny-avila/LibreChat/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
