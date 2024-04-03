@@ -204,7 +204,7 @@ Various open source contributions. Most are just drive-by commits, some projects
 **xiph/speexdsp**
     https://gitlab.xiph.org/xiph/speexdsp/-/commits/master?author=Christoph%20Reiter
 
-**getsentry/raven-pytho**
+**getsentry/raven-python**
     https://github.com/getsentry/raven-python/commits?author=lazka
 
 **rtfd/readthedocs.org**
