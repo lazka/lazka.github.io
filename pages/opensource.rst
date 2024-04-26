@@ -246,6 +246,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **danny-avila/LibreChat**
     https://github.com/danny-avila/LibreChat/commits?author=lazka
 
+**etix/mirrorbits**
+    https://github.com/etix/mirrorbits/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
