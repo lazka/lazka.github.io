@@ -14,7 +14,7 @@ Various open source contributions. Most are just drive-by commits, some projects
     https://github.com/pylint-dev/astroid/commits?author=lazka
 
 **gnome/atk**
-    https://github.com/gnome/atk/commits?author=lazka
+    https://gitlab.gnome.org/Archive/atk/-/commits/master?author=Christoph%20Reiter
 
 **beetbox/beets**
     https://github.com/beetbox/beets/commits?author=lazka
