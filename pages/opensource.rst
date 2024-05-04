@@ -249,6 +249,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **etix/mirrorbits**
     https://github.com/etix/mirrorbits/commits?author=lazka
 
+**pacman/pacman**
+    https://gitlab.archlinux.org/pacman/pacman/-/commits/master?author=Christoph%20Reiter
+
 Old Personal Projects
 ---------------------
 
