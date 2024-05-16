@@ -252,6 +252,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **pacman/pacman**
     https://gitlab.archlinux.org/pacman/pacman/-/commits/master?author=Christoph%20Reiter
 
+**OSGeo/grass**
+    https://github.com/OSGeo/grass/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
