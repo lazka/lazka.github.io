@@ -255,6 +255,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **OSGeo/grass**
     https://github.com/OSGeo/grass/commits?author=lazka
 
+**py2exe/py2exe**
+    https://github.com/py2exe/py2exe/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
