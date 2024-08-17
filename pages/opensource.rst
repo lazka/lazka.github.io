@@ -258,6 +258,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **py2exe/py2exe**
     https://github.com/py2exe/py2exe/commits?author=lazka
 
+**gi-docgen**
+    https://github.com/GNOME/gi-docgen/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
