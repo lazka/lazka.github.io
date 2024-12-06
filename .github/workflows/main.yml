@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade poetry
-          poetry install
+          poetry install --only main
 
       - run: |
           poetry run python  -m sphinx -E -b html . _build
