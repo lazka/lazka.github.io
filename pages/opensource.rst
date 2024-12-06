@@ -264,6 +264,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **GNOME/librsvg**
     https://github.com/GNOME/librsvg/commits?author=lazka
 
+**woodruffw/zizmor**
+    https://github.com/woodruffw/zizmor/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
