@@ -270,6 +270,12 @@ Various open source contributions. Most are just drive-by commits, some projects
 **containers/podman**
     https://github.com/containers/podman/commits?author=lazka
 
+**i18next/i18next-parser**
+    https://github.com/i18next/i18next-parser/commits?author=lazka
+
+**doxygen/doxygen**
+    https://github.com/doxygen/doxygen/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
