@@ -276,6 +276,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **doxygen/doxygen**
     https://github.com/doxygen/doxygen/commits?author=lazka
 
+**psmisc/psmisc**
+    https://gitlab.com/psmisc/psmisc/-/commits/master?author=Christoph%20Reiter
+
 Old Personal Projects
 ---------------------
 
