@@ -213,6 +213,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **rockbox**
     https://git.rockbox.org/cgit/rockbox.git/log/?qt=grep&q=Christoph+Reiter
 
+**deluge**
+    https://git.deluge-torrent.org/deluge/log/?qt=grep&q=lazka
+
 **pypa/setuptools**
     https://github.com/pypa/setuptools/commits?author=lazka
 
