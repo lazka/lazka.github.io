@@ -282,6 +282,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **psmisc/psmisc**
     https://gitlab.com/psmisc/psmisc/-/commits/master?author=Christoph%20Reiter
 
+**avrdudes/avrdude**
+    https://github.com/avrdudes/avrdude/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
