@@ -285,6 +285,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **avrdudes/avrdude**
     https://github.com/avrdudes/avrdude/commits?author=lazka
 
+**python/typeshed**
+    https://github.com/python/typeshed/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
