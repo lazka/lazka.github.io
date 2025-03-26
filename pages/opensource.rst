@@ -288,6 +288,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **python/typeshed**
     https://github.com/python/typeshed/commits?author=lazka
 
+**inkscape/inkscape**
+    https://gitlab.com/inkscape/inkscape/-/commits/master?author=Christoph%20Reiter
+
 Old Personal Projects
 ---------------------
 
