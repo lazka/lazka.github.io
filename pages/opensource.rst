@@ -291,6 +291,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **inkscape/inkscape**
     https://gitlab.com/inkscape/inkscape/-/commits/master?author=Christoph%20Reiter
 
+**python/pythoncapi-compat**
+    https://github.com/python/pythoncapi-compat/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
