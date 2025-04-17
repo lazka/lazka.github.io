@@ -294,6 +294,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **python/pythoncapi-compat**
     https://github.com/python/pythoncapi-compat/commits?author=lazka
 
+**pyca/pynacl**
+    https://github.com/pyca/pynacl/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
