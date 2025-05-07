@@ -297,6 +297,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **pyca/pynacl**
     https://github.com/pyca/pynacl/commits?author=lazka
 
+**typesense/typesense-php**
+    https://github.com/typesense/typesense-php/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
