@@ -300,6 +300,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **typesense/typesense-php**
     https://github.com/typesense/typesense-php/commits?author=lazka
 
+**GNOME/gimp**
+    https://gitlab.gnome.org/GNOME/gimp/-/commits/master?author=Christoph%20Reiter
+
 Old Personal Projects
 ---------------------
 
