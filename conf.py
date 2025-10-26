@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-
-import sys
-sys.path.insert(0, ".")
-
-import collections
-
 extensions = []
 source_suffix = '.rst'
 master_doc = 'index'
@@ -12,7 +5,7 @@ project = u'Home'
 copyright = u''
 version = '0.1'
 release = '0.1'
-exclude_patterns = []
+exclude_patterns = ['.venv']
 pygments_style = 'sphinx'
 html_theme = 'alabaster'
 html_theme_path = ['.']
