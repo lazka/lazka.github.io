@@ -303,6 +303,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **GNOME/gimp**
     https://gitlab.gnome.org/GNOME/gimp/-/commits/master?author=Christoph%20Reiter
 
+**astral-sh/setup-uv**
+    https://github.com/astral-sh/setup-uv/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
