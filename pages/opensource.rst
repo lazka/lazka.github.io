@@ -306,6 +306,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **astral-sh/setup-uv**
     https://github.com/astral-sh/setup-uv/commits?author=lazka
 
+**api-platform/core**
+    https://github.com/api-platform/core/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
