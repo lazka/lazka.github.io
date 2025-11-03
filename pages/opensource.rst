@@ -309,6 +309,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **api-platform/core**
     https://github.com/api-platform/core/commits?author=lazka
 
+**PyO3/maturin**
+    https://github.com/PyO3/maturin/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
