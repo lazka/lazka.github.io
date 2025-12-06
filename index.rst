@@ -20,6 +20,11 @@ Hi, I'm Christoph Reiter...
     https://gitlab.gnome.org/creiter
 
 
+If you want to sponsor my work:
+
+* https://github.com/sponsors/lazka
+* https://paypal.me/creiter1
+
 .. toctree::
     :hidden:
     :titlesonly:
