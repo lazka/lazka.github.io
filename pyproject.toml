@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = [{ name = "Christoph Reiter" }]
 requires-python = ">=3.12"
-dependencies = ["Sphinx>=8.1.3,<9"]
+dependencies = ["Sphinx>=8.1.3,<10"]
 
 [dependency-groups]
 dev = ["sphinx-autobuild==2025.8.25"]
