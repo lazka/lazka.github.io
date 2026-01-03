@@ -310,6 +310,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **PyO3/maturin**
     https://github.com/PyO3/maturin/commits?author=lazka
 
+**gnome/eog**
+    https://gitlab.gnome.org/GNOME/eog/-/commits/master?author=Christoph%20Reiter
+
 Old Personal Projects
 ---------------------
 
