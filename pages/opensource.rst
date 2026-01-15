@@ -313,6 +313,9 @@ Various open source contributions. Most are just drive-by commits, some projects
 **gnome/eog**
     https://gitlab.gnome.org/GNOME/eog/-/commits/master?author=Christoph%20Reiter
 
+**astral-sh/uv**
+    https://github.com/astral-sh/uv/commits?author=lazka
+
 Old Personal Projects
 ---------------------
 
